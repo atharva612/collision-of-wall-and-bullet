@@ -1,2 +1,2 @@
-# collision-of-wall-and-bullet
-collision of wall and bullet
+# p5.play-boilerplate
+Boiler plate for p5.play
